@@ -46,10 +46,15 @@ public class RepositoryPresenter implements BasePresenter<IRepositoriesView> {
         repositoryView.showLoading();
         getRepositoriesSubscription = getUserRepositoriesUsecase.execute().subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread()).subscribe(
+                        //If we recieve an Observable<List<GitHubRepo>>
+                        // Call showRepositories (in fragment through the interface with that list
                         repositories -> {
                             repositoryView.showRepositories(repositories);
                             repositoryView.hideLoading();
                         },
+
+                        //If we don't retrieve a successfull response, for example 404 or 401, print
+                        //error message
                         error -> repositoryView.showErrorText(error.getMessage())
                 );
     }

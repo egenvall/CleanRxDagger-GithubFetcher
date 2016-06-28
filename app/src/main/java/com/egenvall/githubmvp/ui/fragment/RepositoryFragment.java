@@ -88,7 +88,6 @@ public class RepositoryFragment extends BaseFragment implements IRepositoriesVie
         initView();
         initDependencyInjector();
         initPresenter();
-        //getCurrentLocation();
     }
 
     @Override
@@ -113,7 +112,6 @@ public class RepositoryFragment extends BaseFragment implements IRepositoriesVie
     }
 
     private void initView() {
-        //StaggeredGridLayoutManager staggeredGridLayoutManager = new StaggeredGridLayoutManager(2,StaggeredGridLayoutManager.VERTICAL);
         layoutManager = new LinearLayoutManager(activity);
         recyclerView.setLayoutManager(layoutManager);
         listAdapter = new RepositoryAdapter(activity);
