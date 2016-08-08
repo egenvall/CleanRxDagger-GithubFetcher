@@ -27,8 +27,7 @@
 ## Tutorial Coming in Wiki
 
 
-Influenced by other open source projects & tutorials, I do not promise that this project follows the current best practice.
-Especially Dagger2 I'm still trying to understand better.
+Influenced by other open source projects & tutorials
 
 Good references that was used, along with projects linked on their sites:
 
