@@ -1,4 +1,4 @@
-## Check the [Wiki](https://github.com/egenvall/GitHub_SampleTechniques/wiki) for tutorial (in progress)
+## Check the [Wiki](https://github.com/egenvall/GitHub_SampleTechniques/wiki) for a small introduction
 #Libraries used
 
 [RxJava](https://github.com/ReactiveX/RxJava) : Reactive programming
@@ -24,7 +24,7 @@
 
 
 
-## Tutorial Coming in Wiki
+
 
 
 Influenced by other open source projects & tutorials
