@@ -1,5 +1,5 @@
 ## Check the [Wiki](https://github.com/egenvall/GitHub_SampleTechniques/wiki) for a small introduction
-#Libraries used
+# Libraries used
 
 [RxJava](https://github.com/ReactiveX/RxJava) : Reactive programming
 
@@ -11,14 +11,14 @@
 
 [Butterknife] (http://jakewharton.github.io/butterknife/) Easy resource binding
 
-#Useful Articles and Information
-[Clean Architecture with MVP #1] (http://macoscope.com/blog/model-view-presenter-architecture-in-android-applications/)
+# Useful Articles and Information
+[Clean Architecture with MVP #1](http://macoscope.com/blog/model-view-presenter-architecture-in-android-applications/)
 
-[Clean Architecture with MVP #2] (http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+[Clean Architecture with MVP #2](http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 [Dagger2 Explanation (Video) ](https://www.youtube.com/watch?v=SKFB8u0-VA0)
 
-[Retrofit Introduction] (https://futurestud.io/blog/retrofit-getting-started-and-android-client)
+[Retrofit Introduction](https://futurestud.io/blog/retrofit-getting-started-and-android-client)
 
 [Lambda expressions examples](http://www.drdobbs.com/jvm/lambda-expressions-in-java-8/240166764?pgno=2)
 
@@ -35,7 +35,7 @@ Good references that was used, along with projects linked on their sites:
 
 [Antonio Eiva](http://antonioleiva.com/navigation-view/)
 
-[Patryk Poborca] (https://medium.com/@patrykpoborca/making-a-best-practice-app-4-dagger-2-267ec5f6c89a#.etmw3iddv)
+[Patryk Poborca](https://medium.com/@patrykpoborca/making-a-best-practice-app-4-dagger-2-267ec5f6c89a#.etmw3iddv)
 
 [Haider Khan](https://www.linkedin.com/pulse/networking-made-easy-android-retrofit-haider-khan)
 
