@@ -7,9 +7,9 @@
 
 [RetroLambda](https://github.com/evant/gradle-retrolambda): Lambda expressions
 
-[Dagger2] (http://google.github.io/dagger/) Dependency Injection
+[Dagger2](http://google.github.io/dagger/) Dependency Injection
 
-[Butterknife] (http://jakewharton.github.io/butterknife/) Easy resource binding
+[Butterknife](http://jakewharton.github.io/butterknife/) Easy resource binding
 
 # Useful Articles and Information
 [Clean Architecture with MVP #1](http://macoscope.com/blog/model-view-presenter-architecture-in-android-applications/)
